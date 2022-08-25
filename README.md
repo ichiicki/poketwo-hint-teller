@@ -6,7 +6,14 @@ Simple overview of use/purpose.
 
 Solves hint of every forms with high accuracy using Discord API to automatically identify Pokémon from Pokétwo
 
-## Getting Started
+
+
+## Disclaimer ⚠️
+* The creators of this bot are not responsible for any actions you perform using it. Use it at you own risk.
+* Selfbots violate discord & PokeTwo TOS and you will get banned if caught using them. Be careful about how you use the bot.
+* This is for educational purposes.
+* The implications of ban might also affect other accounts which interact with this selfbot. Use with caution.  
+---
 
 ### Dependencies
 
