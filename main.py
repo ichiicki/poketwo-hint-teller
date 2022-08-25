@@ -14,7 +14,7 @@ __version__ = "v2.0.0"
 
 
 def main():
-    pokemon_list_dir = Path('lts/pokemon.json')
+    pokemon_list_dir = Path('Test/pokemon.json')
     bots: [int] = [716390085896962058]
 
     def read_pokemon() -> [str]:
