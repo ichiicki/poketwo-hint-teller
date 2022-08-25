@@ -23,7 +23,7 @@ Solves hint of every forms with high accuracy using Discord API to automatically
 
 Contributors names and contact info
 
-ex. ichiicki 
+
 ex. [@ichiicki](https://twitter.com)
 
 ## Version History
