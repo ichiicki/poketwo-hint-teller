@@ -60,7 +60,7 @@ def main():
           
             if 'The pokémon is' in msg.content:
               
-                #await msg.delete()
+                
                 content = str(msg.content).strip().strip('.').split(' ')
                 pokemon_hint = ''
                 for msg_piece in content:
