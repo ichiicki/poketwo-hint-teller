@@ -4,14 +4,14 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Solves hint of every forms with high accuracy using Discord API to automatically identify Pokémon from Pokétwo
 
 ## Getting Started
 
 ### Dependencies
 
 * python.
-* discord
+* discord.
 
 ### Installing
 
